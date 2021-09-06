@@ -38,3 +38,8 @@ Once the face mask detector is trained, we can then move on to loading the mask 
 We’ll review each of these phases and associated subsets in detail in the remainder of this tutorial, but in the meantime, let’s take a look at the dataset we’ll be using to train our COVID-19 face mask detector.
 
 ![face_mask_detection_dataset](https://user-images.githubusercontent.com/87760317/132211549-d128f4ce-409a-43f6-b38e-3a914d5993c4.jpg)
+
+connect me on :)
+# Linkedln:www.linkedin.com/in/rathodrohan222 
+
+
