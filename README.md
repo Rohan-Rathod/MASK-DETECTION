@@ -1,3 +1,4 @@
+![face_mask_detection_phases](https://user-images.githubusercontent.com/87760317/132211152-d697c1fe-b076-4bc7-b07d-47d7df19b997.png)
 # MASK-DETECTION
 # In this tutorial, you will learn how to train a COVID-19 face mask detector with OpenCV, Keras/TensorFlow, and Deep Learning.
 
