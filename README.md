@@ -1,5 +1,5 @@
 # MASK-DETECTION
-In this tutorial, you will learn how to train a COVID-19 face mask detector with OpenCV, Keras/TensorFlow, and Deep Learning.
+# In this tutorial, you will learn how to train a COVID-19 face mask detector with OpenCV, Keras/TensorFlow, and Deep Learning.
 
 Readers really enjoyed learning from the timely, practical application of that tutorial, so today we are going to look at another COVID-related application of computer vision, this one on detecting face masks with OpenCV and Keras/TensorFlow.
 
@@ -14,6 +14,7 @@ We’ll use this Python script to train a face mask detector and review the resu
 # Given the trained COVID-19 face mask detector, we’ll proceed to implement two more additional Python scripts used to:
 
 1.Detect COVID-19 face masks in images
+
 2.Detect face masks in real-time video streams
 We’ll wrap up the post by looking at the results of applying our face mask detector.
 
